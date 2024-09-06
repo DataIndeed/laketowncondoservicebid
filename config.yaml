@@ -1,0 +1,9 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Lake&Town Condo Service Bids"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1

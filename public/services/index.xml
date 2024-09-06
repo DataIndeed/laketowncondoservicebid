@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Condo Board Service Bids</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on Condo Board Service Bids</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gardening</title>
+      <link>http://localhost:1313/services/gardening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/gardening/</guid>
+      <description>&lt;h1 id=&#34;gardening-service-bids&#34;&gt;Gardening Service Bids&lt;/h1&gt;&#xA;&lt;p&gt;We are currently accepting bids for gardening and landscaping services for our condo community.&lt;/p&gt;&#xA;&lt;form action=&#34;https://formspree.io/f/your-formspree-id&#34; method=&#34;POST&#34;&gt;&#xD;&#xA;    &lt;input type=&#34;hidden&#34; name=&#34;service&#34; value=&#34;Gardening&#34;&gt;&#xD;&#xA;    &lt;label for=&#34;company&#34;&gt;Company Name:&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;text&#34; id=&#34;company&#34; name=&#34;company&#34; required&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;label for=&#34;bid&#34;&gt;Bid Amount ($):&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;number&#34; id=&#34;bid&#34; name=&#34;bid&#34; required&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;label for=&#34;phone&#34;&gt;Phone:&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;tel&#34; id=&#34;phone&#34; name=&#34;phone&#34; required&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;label for=&#34;email&#34;&gt;Email:&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;button type=&#34;submit&#34;&gt;Submit Bid&lt;/button&gt;&#xD;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>Snow Removal</title>
+      <link>http://localhost:1313/services/snow-removal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/snow-removal/</guid>
+      <description>&lt;h1 id=&#34;snow-removal-service-bids&#34;&gt;Snow Removal Service Bids&lt;/h1&gt;&#xA;&lt;p&gt;We are currently accepting bids for snow removal services for our condo community.&lt;/p&gt;&#xA;&lt;form action=&#34;https://formspree.io/f/your-formspree-id&#34; method=&#34;POST&#34;&gt;&#xD;&#xA;    &lt;input type=&#34;hidden&#34; name=&#34;service&#34; value=&#34;Snow Removal&#34;&gt;&#xD;&#xA;    &lt;label for=&#34;company&#34;&gt;Company Name:&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;text&#34; id=&#34;company&#34; name=&#34;company&#34; required&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;label for=&#34;bid&#34;&gt;Bid Amount ($):&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;number&#34; id=&#34;bid&#34; name=&#34;bid&#34; required&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;label for=&#34;phone&#34;&gt;Phone:&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;tel&#34; id=&#34;phone&#34; name=&#34;phone&#34; required&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;label for=&#34;email&#34;&gt;Email:&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;button type=&#34;submit&#34;&gt;Submit Bid&lt;/button&gt;&#xD;&#xA;&lt;/form&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Data Zenatic</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Projects on Data Zenatic</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2022 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investment Portfolio Analytics &amp; Due-diligence</title>
+      <link>http://localhost:1313/post/project-1/</link>
+      <pubDate>Sun, 16 Oct 2022 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-1/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Cashflow data input and analysis with Qlik dashboard integrations&lt;/li&gt;&#xA;&lt;li&gt;Custom designed summary report contain all analytics in Excel format&lt;/li&gt;&#xA;&lt;li&gt;Performance metrics calculations in multiple currencies&lt;/li&gt;&#xA;&lt;li&gt;Attributions and strategy based asset allocation metrics&lt;/li&gt;&#xA;&lt;li&gt;Performance benchmarked against several industry benchmarks with PME+ calculations&lt;/li&gt;&#xA;&lt;li&gt;Detailed look through data vs. summary data available at multiple levels.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Investment Approval Integration Workflow</title>
+      <link>http://localhost:1313/post/project-2/</link>
+      <pubDate>Sat, 10 Sep 2022 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-2/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Assist in investment decision making process and workflow&lt;/li&gt;&#xA;&lt;li&gt;Provides summaries of commitments at department, portfolio and strategy levels&lt;/li&gt;&#xA;&lt;li&gt;Tracks ongoing commitments decisions, cumulative total net commitments, unfunded &amp;amp; funded commitments, combined with investment proposals at multiple investment portfolio levels&lt;/li&gt;&#xA;&lt;li&gt;Provides look through data of total net commitments impact at transactions level&lt;/li&gt;&#xA;&lt;li&gt;Alerts when approval amount is near or breached&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Portflio Analytic Matrices</title>
+      <link>http://localhost:1313/post/project-3/</link>
+      <pubDate>Sat, 16 Jul 2022 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/post/project-3/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Provides dynamic view of the portfolio in multiple aggregation levels&lt;/li&gt;&#xA;&lt;li&gt;Standard and customized portfolio performance metrics with fully adjustable date range and periods since inception.&lt;/li&gt;&#xA;&lt;li&gt;Data extractable to excel or csv format for further analysis&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
