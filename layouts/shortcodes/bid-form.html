@@ -1,16 +1,18 @@
-<form action="https://formspree.io/f/your-formspree-id" method="POST">
+<form name="{{ .Get "service" | lower }}-bid" method="POST" data-netlify="true">
+    <input type="hidden" name="form-name" value="{{ .Get "service" | lower }}-bid">
     <input type="hidden" name="service" value="{{ .Get "service" }}">
-    <label for="company">Company Name:</label>
-    <input type="text" id="company" name="company" required>
     
-    <label for="bid">Bid Amount ($):</label>
-    <input type="number" id="bid" name="bid" required>
+    <label for="company-{{ .Get "service" | lower }}">Company Name:</label>
+    <input type="text" id="company-{{ .Get "service" | lower }}" name="company" required>
     
-    <label for="phone">Phone:</label>
-    <input type="tel" id="phone" name="phone" required>
+    <label for="bid-{{ .Get "service" | lower }}">Bid Amount ($):</label>
+    <input type="number" id="bid-{{ .Get "service" | lower }}" name="bid" required>
     
-    <label for="email">Email:</label>
-    <input type="email" id="email" name="email" required>
+    <label for="phone-{{ .Get "service" | lower }}">Phone:</label>
+    <input type="tel" id="phone-{{ .Get "service" | lower }}" name="phone" required>
+    
+    <label for="email-{{ .Get "service" | lower }}">Email:</label>
+    <input type="email" id="email-{{ .Get "service" | lower }}" name="email" required>
     
     <button type="submit">Submit Bid</button>
 </form>
