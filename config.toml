@@ -1,5 +1,5 @@
 title = "Condo Board Service Bids"
-baseURL = "https://datazenatic.com/"
+baseURL = "https://laketownservicebids.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
