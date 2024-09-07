@@ -10,6 +10,10 @@ Welcome to the Lake&Town Condo service bid portal. Here you can submit bids for 
 
 We are currently accepting bids for snow removal services for our Lake&Town Condo community. If you're experienced in providing reliable and efficient snow removal, we'd love to hear from you.
 
+{{< figure src="/images/condo-snow-removal.JPG" alt="Condo Snow Removal Area" width="80%" >}}
+
+This image shows the area that requires snow removal. Please consider this when preparing your bid.
+
 {{< bid-form service="Snow Removal" >}}
 
 ## Gardening Service Bids

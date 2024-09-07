@@ -16,6 +16,16 @@ body {
     border-radius: 8px;
 }
 
+/* Updated styles for the snow removal image */
+.container img[alt="Condo Snow Removal Area"] {
+    max-width: 80%; /* Reduce the maximum width to 80% of its container */
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 h1, h2 {
     color: #2c3e50;
     margin-top: 0;
